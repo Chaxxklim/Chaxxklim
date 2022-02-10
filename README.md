@@ -18,7 +18,7 @@
 
 
 
-<a href="https://www.instagram.com/chaxxklim/"><img src="https://img.shields.io/badge/#E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp </a>
+<a href="https://www.instagram.com/chaxxklim/"><img src="https://img.shields.io/badge/github-GIVEME--STAR-pink"></a>&nbsp </a>
 
 
 
