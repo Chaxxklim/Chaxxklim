@@ -18,7 +18,7 @@
 
 
 
-<a href="https://www.instagram.com/chaxxklim/"><img src="https://camo.githubusercontent.com/372dfe5550512c1b2e7e3649ea92a5cbadeec44a51c3b2bf822fe2a7a22c13d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/chaxxklim/"><img src="https://img.shields.io/badge/#E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp </a>
 
-<a href="https://www.instagram.com/chaxxklim/"><img src="https://camo.githubusercontent.com/372dfe5550512c1b2e7e3649ea92a5cbadeec44a51c3b2bf822fe2a7a22c13d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
+
 
